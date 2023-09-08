@@ -20,6 +20,7 @@ const CategoryList = () => {
 					<Image src="/style.png" width={32} height={32} className={styles.image} />
 					style
 				</Link>
+				{/*  */}
 				<Link href="/blog?cat=style" className={`${styles.category} ${styles.style}`}>
 					<Image src="/style.png" width={32} height={32} className={styles.image} />
 					style
